@@ -1076,7 +1076,7 @@ dd {
 	text-align: left;
 	padding: 1em;
 	color: #fff;
-	background: rgba(219,64,73,0.8); /* 帯の透明度 */
+	/*background: rgba(219,64,73,0.8);*/ /* 帯の透明度 */
 	position: absolute; /* 絶対位置指定 */
 }
 }
